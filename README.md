@@ -57,3 +57,9 @@ https://github.com/flashscope/CardBoard_Plugin_For_Unity/blob/master/CardBoardFo
 https://github.com/flashscope/CardBoard_Plugin_For_Unity/blob/master/CardBoardForUnity/CardBoardForUnity/Assets/CardBoardLogics/Scripts/CameraControl.cs
 
 
+
+
+add. If you using Unity Pro, use Fish Eye Shader! It gives more reality effect
+
+
+
