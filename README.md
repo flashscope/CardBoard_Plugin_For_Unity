@@ -2,10 +2,12 @@ CardBoard_Plugin_For_Unity
 ==========================
 
 CardBoard For Unity is unity3d plugin for Google cardboard system
-https://cardboard.withgoogle.com/
+- https://cardboard.withgoogle.com/
+
+
 
 It using cardboard jar file included google cardboard sample 
-https://developers.google.com/cardboard/get-started
+- https://developers.google.com/cardboard/get-started
 
 
 Tested in Nexus 5
