@@ -8,6 +8,9 @@ It using cardboard jar file included google cardboard sample
 https://developers.google.com/cardboard/get-started
 
 
+Tested in Nexus 5
+
+
 Include Sample Project
 --------------
 
